@@ -1,0 +1,45 @@
+Description
+
+as
+ a user
+
+he want see the movie
+
+
+so that he can search
+
+
+scope
+
+
+user should able to search the listing of movies in application
+
+
+precondition
+
+
+user should had login the application
+
+acceptance criteria
+
+
+scenario 1: user can find the 
+movie name
+
+user will searched a name of the movie
+
+and check what he search the movie name it’s in 
+listing
+
+then he will select the movie and get booking
+
+
+scenario 2: use not found the movie when searched
+
+
+user searched a not existed movie name
+
+and he checked the movie in listing
+
+t
+he he can’t book the ticket
